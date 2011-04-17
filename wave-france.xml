@@ -1,0 +1,11 @@
+<extension name="Wave-France" description="Creez en 2 clics vos waves publiques francophones. En bonus, moderez vos waves : Public sur Read-only et seuls les membres du groupe pourront editer." thumbnailUrl="http://wave-france.appspot.com/static/wave-fr-thumb.jpg">
+  <version>1.2</version>
+  <author name="Jeremy NGL - http://wave-france.appspot.com" website="http://wave-france.blogspot.com" email="wave-france@googlegroups.com"/>
+  <menuHook location="NEW_WAVE_MENU" text="Wave-France">
+    <createNewWave>
+      <participant id="public@a.gwave.com" />
+	  <participant id="wave-france@googlegroups.com" />
+    </createNewWave>
+  </menuHook>
+  <savedSearchHook name="Wave-France" query="group:wave-france@googlegroups.com" /> 
+</extension>

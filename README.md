@@ -1,6 +1,4 @@
 # wave-france
-Automatically exported from code.google.com/p/wave-france
-Google Wave gadget for French Public waving
 
 Le gadget *Wave-France* pour Google Wave offre la *possibilité de modérer les contributions* grâce au [http://wave-france.appspot.com/index/moderation.html Google Group Wave-France] et permet:
   * de *créer des waves publiques francophones* en 2 clics, 
@@ -21,7 +19,9 @@ Toute contribution à la création du robot "Wave-France" est la bienvenue (une 
 
 La wave permettant d'installer l'extension dans Google Wave est ici: http://goo.gl/Q37yd
 
-Un Google Group pour modérer des waves - Mode d'emploi : http://wave-france.appspot.com
+Wave-France - Mode d'emploi : http://wave-france.appspot.com
+
+Wave-France - Google Groups : http://groups.google.com/group/wave-france
 
 
 ----
@@ -30,3 +30,10 @@ Actualités francophones du protocole Wave :
 * http://wave-france.blogspot.com/ *
 
 [http://wave-france.blogspot.com/ http://wave-france.appspot.com/static/Blog_WF.png]
+
+
+----
+
+
+
+Automatically exported from code.google.com/p/wave-france
